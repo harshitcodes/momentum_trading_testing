@@ -29,7 +29,7 @@ mkl-random==1.0.1
 more-itertools==4.3.0
 nbconvert==5.4.0
 nbformat==4.4.0
-notebook==5.7.2
+notebook==6.4.10
 numpy==1.15.4
 oandapyV20==0.6.3
 pandas==0.23.4
